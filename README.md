@@ -1,1 +1,1 @@
-# Indian-Food-EDA
+# Indian Food-EDA
